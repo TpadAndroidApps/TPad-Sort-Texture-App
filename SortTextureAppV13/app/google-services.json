@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "663219820725",
+    "firebase_url": "https://sortingtexturetest.firebaseio.com",
+    "project_id": "sortingtexturetest",
+    "storage_bucket": "sortingtexturetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663219820725:android:7bdc5403933383f3",
+        "android_client_info": {
+          "package_name": "com.example.david.sorttextureapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663219820725-g05ianjt14viq80a9rbs5hsbv4i2akh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxGVAV8CbpjGpODtxJvvZDlULBhiJfJSg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

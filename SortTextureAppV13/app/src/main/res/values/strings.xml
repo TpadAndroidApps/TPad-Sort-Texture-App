@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sorting Texture</string>
+    <string name="app_title">Sorting Texture</string>
+    <string name="app_description">Instruction:</string>
+    <string name="app_instruction">Given 3 different images. Please sort these images from smooth to rough. You can drag image to change order and click image to feel. </string>
+    <string name="start_button">Start</string>
+
+    <string name="prev_button">previous</string>
+    <string name="list_button">list</string>
+    <string name="next_button">next</string>
+
+    <string name="title_activity_list_arrange">Sort Texture</string>
+
+    <string name="button4Text">Add Image</string>
+    <string name="button5Text">Submit Order</string>
+
+    <string name="title_activity_picture_loader">Touch and Feel</string>
+    <string name="Try_Again">Try Again</string>
+    <string name="Exit">Exit</string>
+
+</resources>
